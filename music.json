@@ -1,0 +1,60 @@
+var songsList = [{
+        "song_id": 1,
+        "song_name": "Bang Bang",
+        "song_url": "http://2018.cdn-badshah.xyz/Bollywood%20MP3%20Songs/Bang%20Bang%20(2014)/Bang%20Bang%20(2014)%20320%20Kbps/04%20-%20Bang%20Bang%20-%20MusicBadshah.Org.mp3",
+        "song_thumb": "https://www.bollywoodlife.com/wp-content/uploads/2014/07/bang-bang-poster-oct-2.jpg"
+    },
+    {
+        "song_id": 2,
+        "song_name": "Dhadak",
+        "song_url": "http://2018.cdn-badshah.xyz/Bollywood%20MP3%20Songs/Dhadak%20(2018)/Dhadak%20(2018)%20320%20Kbps/01%20-%20Dhadak%20Title%20Track%20-%20MusicBadshah.Org.mp3",
+        "song_thumb": "https://musicbadshah.link/wp-content/uploads/2018/06/Dhadak-2018-1.jpg"
+    },
+    {
+        "song_id": 3,
+        "song_name": "Ashiqui2",
+        "song_url": "http://2018.cdn-badshah.xyz/Bollywood%20MP3%20Songs/Aashiqui%202%20(2013)/Aashiqui%202%20(2013)%20320%20kbps/02%20-%20Sunn%20Raha%20Hai%20-%20MusicBadshah.Org.mp3",
+        "song_thumb": "https://musicbadshah.link/wp-content/uploads/2017/03/Aashiqui-2-2013-210x300.jpg"
+    },
+    {
+        "song_id": 4,
+        "song_name": "Baaghi",
+        "song_url": "http://2018.cdn-badshah.xyz/Bollywood%20MP3%20Songs/Baaghi%202%20(2018)/Baaghi%202%20(2018)%20320%20Kbps/02%20-%20O%20Saathi%20-%20MusicBadshah.Org.mp3",
+        "song_thumb": "https://musicbadshah.link/wp-content/uploads/2018/03/Baaghi-2-2018-208x300.jpg"
+    },
+    {
+        "song_id": 5,
+        "song_name": "Baaghi",
+        "song_url": "http://2018.cdn-badshah.xyz/Bollywood%20MP3%20Songs/Baaghi%202%20(2018)/Baaghi%202%20(2018)%20320%20Kbps/03%20-%20Lo%20Safar%20-%20MusicBadshah.Org.mp3",
+        "song_thumb": "https://musicbadshah.link/wp-content/uploads/2018/03/Baaghi-2-2018-208x300.jpg"
+    },{
+        "song_id": 6,
+        "song_name": "Bang Bang",
+        "song_url": "http://2018.cdn-badshah.xyz/Bollywood%20MP3%20Songs/Bang%20Bang%20(2014)/Bang%20Bang%20(2014)%20320%20Kbps/04%20-%20Bang%20Bang%20-%20MusicBadshah.Org.mp3",
+        "song_thumb": "https://www.bollywoodlife.com/wp-content/uploads/2014/07/bang-bang-poster-oct-2.jpg"
+    },
+    {
+        "song_id": 7,
+        "song_name": "Dhadak",
+        "song_url": "http://2018.cdn-badshah.xyz/Bollywood%20MP3%20Songs/Dhadak%20(2018)/Dhadak%20(2018)%20320%20Kbps/01%20-%20Dhadak%20Title%20Track%20-%20MusicBadshah.Org.mp3",
+        "song_thumb": "https://musicbadshah.link/wp-content/uploads/2018/06/Dhadak-2018-1.jpg"
+    },
+    {
+        "song_id": 8,
+        "song_name": "Ashiqui2",
+        "song_url": "http://2018.cdn-badshah.xyz/Bollywood%20MP3%20Songs/Aashiqui%202%20(2013)/Aashiqui%202%20(2013)%20320%20kbps/02%20-%20Sunn%20Raha%20Hai%20-%20MusicBadshah.Org.mp3",
+        "song_thumb": "https://musicbadshah.link/wp-content/uploads/2017/03/Aashiqui-2-2013-210x300.jpg"
+    },
+    {
+        "song_id": 9,
+        "song_name": "Baaghi",
+        "song_url": "http://2018.cdn-badshah.xyz/Bollywood%20MP3%20Songs/Baaghi%202%20(2018)/Baaghi%202%20(2018)%20320%20Kbps/02%20-%20O%20Saathi%20-%20MusicBadshah.Org.mp3",
+        "song_thumb": "https://musicbadshah.link/wp-content/uploads/2018/03/Baaghi-2-2018-208x300.jpg"
+    },
+    {
+        "song_id": 10,
+        "song_name": "Baaghi",
+        "song_url": "http://2018.cdn-badshah.xyz/Bollywood%20MP3%20Songs/Baaghi%202%20(2018)/Baaghi%202%20(2018)%20320%20Kbps/03%20-%20Lo%20Safar%20-%20MusicBadshah.Org.mp3",
+        "song_thumb": "https://musicbadshah.link/wp-content/uploads/2018/03/Baaghi-2-2018-208x300.jpg"
+    },]
+    
