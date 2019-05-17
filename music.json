@@ -1,4 +1,4 @@
-songList:[{
+{songList:[{
         "song_id": 1,
         "song_name": "Bang Bang",
         "song_url": "http://2018.cdn-badshah.xyz/Bollywood%20MP3%20Songs/Bang%20Bang%20(2014)/Bang%20Bang%20(2014)%20320%20Kbps/04%20-%20Bang%20Bang%20-%20MusicBadshah.Org.mp3",
@@ -59,3 +59,4 @@ songList:[{
         "song_thumb": "https://musicbadshah.link/wp-content/uploads/2018/03/Baaghi-2-2018-208x300.jpg"
     },]
     
+}
